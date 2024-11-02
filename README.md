@@ -1,6 +1,6 @@
 # Hi, I'm Itzel! 👋
 
-I'm a data science enthusiast currently working on projects that analyze trends and create insights from diverse datasets. I'm passionate about using data to drive meaningful change and learning new techniques along the way.
+I'm a Data Science student at the University of San Diego, passionate about using data to drive meaningful change and learning new techniques along the way.
 
 ### 🌱 Currently working on
 - **[https://github.com/GonBla/MSADS_CapstoneProject]**: Our project is focused on developing a predictive model for Favorita, a leading grocery retailer in Ecuador, we will implement time series analysis to address key marketing needs. 
